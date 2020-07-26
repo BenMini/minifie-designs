@@ -1,0 +1,29 @@
+- profile:
+  initials: BSM
+  name: Ben S Minifie
+  email: benminifie88@gmail.com
+  profession: Web Developer
+  image: images/profile.jpg
+  location: Greenfield, MA
+  relocation: false
+  company: Minifie Designs
+  for_hire: true
+  focus: Learning Gatsby
+  focus_url: https://gatsbyjs.org
+  about: |
+    I'm a chef turned software engineer who loves building apps to improve efficiency. Right now, I'm working on building a website for content creator and videographer Matt Kenney
+
+    Skills: Python, JavaScript, React, SQL, Docker, TDD, AWS
+  skills:
+    - Python [Flask, Django]
+    - React
+    - Gatsby
+  tools:
+    - Python
+    - React
+    - GitHub
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
