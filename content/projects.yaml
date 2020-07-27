@@ -10,7 +10,7 @@
 
 - name: Casting Agency
   url: https://github.com/BenMini/CastingAgency
-  description: A full stack backend API that allows for casting assistants, directors, and executive producers to all collaborate, in a simplified efficient manner
+  description: A full stack backend API that allows for casting assistants, directors, and executive producers to collaborate, in a simplified efficient manner
   status: live
   tags:
     - Python
